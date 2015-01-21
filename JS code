@@ -1,0 +1,3 @@
+var a = fuction(){
+console.log("wow!");
+}
